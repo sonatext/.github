@@ -28,7 +28,9 @@ While our core platform is currently proprietary, we’re excited to share that 
 
 ## 🌐 Learn More
 
-- **Website**: [https://sonatext.com](https://sonatext.com) (or placeholder link)
+- **Website**: [https://sonatext.com](https://sonatext.com)
+- **LinkedIn**: [Sonatext LinkedIn](https://www.linkedin.com/company/sonatext)
+- **BlueSky**: [@sonatext](https://bsky.app/profile/sonatext.com)
 
 ---
 
